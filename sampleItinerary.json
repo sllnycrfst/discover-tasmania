@@ -1,0 +1,74 @@
+[
+  {
+    "date": "Thurs 18th",
+    "location": "Hobart",
+    "notes": [
+      "Flight",
+      "Car Rental",
+      "Hotel check-in",
+      "Mt Wellington (30 min drive)"
+    ]
+  },
+  {
+    "date": "Fri 19th",
+    "location": "Bicheno",
+    "notes": [
+      "2 hrs 20 mins drive",
+      "Stop at Coles Bay",
+      "Penguin walk at night"
+    ]
+  },
+  {
+    "date": "Sat 20th + Sun 21st",
+    "location": "Launceston",
+    "notes": [
+      "2 hrs drive (or 3 hrs via St Helens)",
+      "Optional St Helens (Bay of Fires)",
+      "Sun - Zoo experience",
+      "Penny Royal?",
+      "Leisure Inn?"
+    ]
+  },
+  {
+    "date": "Mon 22nd",
+    "location": "Cradle Mountain",
+    "notes": [
+      "3 hrs 45 mins drive",
+      "Dove Lake"
+    ]
+  },
+  {
+    "date": "Tues 23rd",
+    "location": "Queenstown",
+    "notes": [
+      "1 hr 45 mins drive",
+      "Iron Blow Lookout"
+    ]
+  },
+  {
+    "date": "Wed 24th",
+    "location": "Lake St. Clair",
+    "notes": [
+      "1 hr 30 mins drive",
+      "Rail experience (3 hrs at 10:30 AM)"
+    ]
+  },
+  {
+    "date": "Thurs 25th + Fri 26th",
+    "location": "Hobart",
+    "notes": [
+      "2 hrs 20 mins drive",
+      "Mt Wellington?",
+      "MONA",
+      "Home in Opossum Bay?"
+    ]
+  },
+  {
+    "date": "Sat 27th",
+    "location": "Hobart",
+    "notes": [
+      "Salamanca Markets",
+      "Afternoon flight home"
+    ]
+  }
+]
